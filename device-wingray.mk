@@ -64,7 +64,8 @@ PRODUCT_COPY_FILES := \
     $(LOCAL_PATH)/proprietary/libnvrm_graphics.so:system/lib/libnvrm_graphics.so \
     $(LOCAL_PATH)/proprietary/libnvsm.so:system/lib/libnvsm.so \
     $(LOCAL_PATH)/proprietary/libnvwsi.so:system/lib/libnvwsi.so \
-    $(LOCAL_PATH)/proprietary/libstagefrighthw.so:system/lib/libstagefrighthw.so
+    $(LOCAL_PATH)/proprietary/libstagefrighthw.so:system/lib/libstagefrighthw.so \
+    $(LOCAL_PATH)/proprietary/libpkip.so:system/lib/libpkip.so
 
 PRODUCT_PACKAGES := \
     libpkip
