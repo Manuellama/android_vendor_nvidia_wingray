@@ -38,7 +38,7 @@ PRODUCT_COPY_FILES := \
     $(LOCAL_PATH)/proprietary/libGLESv1_CM_tegra.so:system/lib/egl/libGLESv1_CM_tegra.so \
     $(LOCAL_PATH)/proprietary/libGLESv2_tegra.so:system/lib/egl/libGLESv2_tegra.so \
     $(LOCAL_PATH)/proprietary/gralloc.tegra.so:system/lib/hw/gralloc.tegra.so \
-    $(LOCAL_PATH)/proprietary/hwcomposer.tegra.so:system/lib/hw/hwcomposer.tegra.so \
+    $(LOCAL_PATH)/proprietary/hwcomposer.tegra_v0.so:system/lib/hw/hwcomposer.tegra.so \
     $(LOCAL_PATH)/proprietary/libcgdrv.so:system/lib/libcgdrv.so \
     $(LOCAL_PATH)/proprietary/libnvddk_2d.so:system/lib/libnvddk_2d.so \
     $(LOCAL_PATH)/proprietary/libnvddk_2d_v2.so:system/lib/libnvddk_2d_v2.so \
